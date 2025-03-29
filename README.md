@@ -1,2 +1,2 @@
-# QuestionnaireGame
-I make a basic game where u answer trivia questions in python
+# Questionnaire Game
+This is a simple python-only app that uses the CLI to play a questionnaire game
